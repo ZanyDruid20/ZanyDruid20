@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
 ---
@@ -43,8 +42,6 @@ A campus-wide accessibility navigation system helping students with mobility nee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="6" />
-  <img src="https://raw.githubusercontent.com/railwayapp/brand/master/logo-dark.png" height="30" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
 </div>
@@ -78,7 +75,6 @@ A lightweight, fast link shortener built with Go, Redis, Docker, MySQL, and AWS.
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
 </div>
 
 ---
@@ -134,9 +130,6 @@ A personal data structures and backend logic project where I practiced building 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/railwayapp/brand/master/logo-dark.png" height="40" />
 </div>
 
 ###
