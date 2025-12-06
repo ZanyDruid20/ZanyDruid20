@@ -94,7 +94,8 @@ A low-level emulator that interprets opcodes and renders classic Chip-8 graphics
 A personal data structures and backend logic project where I practiced building simple event features and structuring data.
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
 ---
