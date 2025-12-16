@@ -8,35 +8,41 @@
 
 <p align="left">
   <!-- Languages -->
+  <strong>Languages:</strong>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img width="6" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
 
   <!-- Frontend -->
+  <strong>Frontend:</strong>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img width="6" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
 
   <!-- Backend -->
+  <strong>Backend:</strong>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img width="6" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
 
   <!-- Databases -->
+  <strong>Databases:</strong>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img width="6" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
 
   <!-- Dev & Cloud Tools -->
+  <strong>Dev & Cloud:</strong>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
 </p>
+
 
 
 ---
