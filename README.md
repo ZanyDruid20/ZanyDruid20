@@ -82,7 +82,6 @@ A **full-stack GitHub analytics platform** that turns public GitHub activity int
 - **Backend:** Node.js, Express, GraphQL  
 - **Data:** GitHub REST + GitHub GraphQL  
 - **Infra:** Google Cloud Run, Vercel, GitHub Actions  
-- **Monitoring:** Prometheus + Grafana  
 
 ---
 
@@ -139,6 +138,8 @@ Low-level emulator for classic Chip-8 systems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
+
 
 </p>
 
