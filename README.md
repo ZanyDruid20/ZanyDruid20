@@ -140,7 +140,7 @@ A personal data structures and backend logic project where I practiced building 
 ---
 
 ### 🔹 <a href="https://github.com/ZanyDruid20/gepo">GEPO — GitHub Analytics Platform</a>
-A full-stack GitHub analytics platform that turns public GitHub activity into dashboards, scores, heatmaps, and a Spotify-Wrapped-style “Year in Review.”
+A full-stack GitHub analytics platform that turns public GitHub activity into dashboards, scores, and a Spotify-Wrapped-style “Year in Review.”
 
 Built with GitHub REST + GraphQL, a Node.js + Express backend, GraphQL API, Redis caching, and a Next.js frontend deployed on GCP Cloud Run and Vercel.
 
