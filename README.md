@@ -8,7 +8,7 @@ I enjoy turning **real problems into real software** — from accessibility tool
 
 ## 🧠 About Me
 
-- ✨ I build products, not just demos  
+- ✨ I build products
 - 📚 Studying **Computer Science + AI**  
 - 🎯 Goal: become a strong **software engineer & system designer**  
 - 🧩 I love designing tools that make people more productive  
@@ -61,23 +61,21 @@ I enjoy turning **real problems into real software** — from accessibility tool
 </p>
 
 
----
-
-## 🚀 Featured Project
+## 🚀 Projects
 
 ### **GEPO — GitHub Analytics Platform**
-🔗 https://github.com/ZanyDruid20/gepo  
 
-A **full-stack GitHub analytics platform** that turns public GitHub activity into dashboards, rankings, and a Spotify-Wrapped-style **Year in Review**.
+A **full-stack GitHub analytics platform** that transforms public GitHub activity into dashboards, scores, and a Spotify-Wrapped-style **Year in Review**.
 
 **What it does**
-- Pulls commit, repo, language, and activity data via **GitHub REST + GraphQL**
-- Computes **developer scores & trends**
-- Renders animated **Wrapped-style reports**
-- Caches heavy queries using **Redis**
-- Exposes everything via a **GraphQL API**
+- Pulls commit, repo, and language data via **GitHub REST + GraphQL**
+- Aggregates activity across all public repositories
+- Computes **developer scores, trends, and badges**
+- Generates animated **Wrapped-style reports**
+- Uses **Redis caching** to handle heavy GitHub API workloads
+- Exposes all data via a **GraphQL API** for the frontend
 
-**Stack**
+**Tech Stack**
 - **Frontend:** Next.js, TypeScript, Framer Motion  
 - **Backend:** Node.js, Express, GraphQL  
 - **Data:** GitHub REST + GitHub GraphQL  
@@ -85,25 +83,53 @@ A **full-stack GitHub analytics platform** that turns public GitHub activity int
 
 ---
 
-## 📦 Other Projects
+### **Accessibility Map**
+Campus-wide accessibility navigation system that helps students with mobility needs find **step-free routes** across campus.
 
-### 🔹 Accessibility Map  
-Campus-wide step-free route planner for students with mobility needs  
-**Stack:** FastAPI, Python, MySQL, Docker, JS  
+**What it does**
+- Models walkable paths and building accessibility
+- Computes optimal step-free routes
+- Provides a clean web interface for students
 
-### 🔹 Studivio  
-AI-powered note & PDF summarizer  
-**Stack:** Flask, React, MongoDB  
-
-### 🔹 URL Shortener  
-High-performance short-link service  
-**Stack:** Go, Redis, MySQL, Docker, AWS  
-
-### 🔹 Chip-8 Emulator  
-Low-level emulator for classic Chip-8 systems  
-**Stack:** C, C++  
+**Stack:** FastAPI, Python, MySQL, Docker, JavaScript  
 
 ---
+
+### **Studivio**
+An **AI-powered study tool** that summarizes PDFs, lecture notes, and audio recordings.
+
+**What it does**
+- Upload and process documents
+- Generate AI-powered summaries
+- Store and organize study material
+
+**Stack:** Flask, React, MongoDB  
+
+---
+
+### **URL Shortener**
+A **high-performance link shortener** designed to be fast, scalable, and production-ready.
+
+**What it does**
+- Generates short links
+- Uses Redis for ultra-fast lookups
+- Persists data in MySQL
+- Runs in Docker and AWS
+
+**Stack:** Go, Redis, MySQL, Docker, AWS  
+
+---
+
+### **Chip-8 Emulator**
+A low-level emulator that interprets Chip-8 opcodes and renders classic retro graphics.
+
+**What it does**
+- Implements CPU, memory, and opcode execution
+- Renders pixel graphics
+- Handles input and timing
+
+**Stack:** C, C++  
+
 
 ## 💻 I Code With
 
