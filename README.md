@@ -56,8 +56,10 @@ I enjoy turning **real problems into real software** — from accessibility tool
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/>
 </p>
+
 
 ---
 
