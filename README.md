@@ -2,7 +2,7 @@
 
 > Computer Science student at **UMBC** who builds full-stack systems, developer tools, and data-driven platforms.
 
-I enjoy turning **real problems into real software** — from accessibility tools to GitHub analytics platforms.
+I enjoy turning **real problems into real software** — from accessibility tools to analytics platforms.
 
 ---
 
