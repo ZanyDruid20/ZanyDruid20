@@ -52,7 +52,7 @@ I enjoy turning **real problems into real software** — from accessibility tool
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
 </p>
 
-### Cloud, DevOps & Monitoring
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white"/>
