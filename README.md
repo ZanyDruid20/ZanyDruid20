@@ -78,7 +78,7 @@ A **full-stack GitHub analytics platform** that transforms public GitHub activit
 **Tech Stack**
 - **Frontend:** Next.js, TypeScript, Framer Motion  
 - **Backend:** Node.js, Express, GraphQL  
-- **Data:** GitHub REST + GitHub GraphQL  
+- **API:** GitHub REST + GitHub GraphQL  
 - **Infra:** Google Cloud Run, Vercel, GitHub Actions  
 
 ---
