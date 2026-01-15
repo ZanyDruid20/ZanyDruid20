@@ -91,7 +91,7 @@ Campus-wide accessibility navigation system that helps students with mobility ne
 - Computes optimal step-free routes
 - Provides a clean web interface for students
 
-**Stack:** FastAPI, Python, MySQL, Docker, JavaScript  
+**Stack:** FastAPI, Python, MySQL, Docker, JavaScript, Railway
 
 ---
 
