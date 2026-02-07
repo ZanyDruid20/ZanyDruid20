@@ -8,9 +8,9 @@ I enjoy turning **real problems into real software** — from maps to analytics 
 
 ## 🧠 About Me
 
-- ✨ I build products
-- 📚 Studying Computer Science with coursework in AI, computer architecture, and operating systems, with a growing interest in applied AI and agent-driven products
-- 🎯 Goal: become a strong **software engineer**  
+- ✨ I build products.
+- 📚 Studying Computer Science with coursework in AI, computer architecture, and operating systems, with a growing interest in applied AI and agent-driven products.
+- 🎯 Goal: become a strong **software engineer** focused on scalable systems.
 - 🧩 I enjoy building tools that improve productivity and efficiency for people and systems.  
 
 ---
