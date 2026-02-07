@@ -103,7 +103,7 @@ An **AI-powered study tool** that summarizes PDFs, lecture notes, and audio reco
 - Generate AI-powered summaries
 - Store and organize study material
 
-**Stack:** Flask, React, MongoDB  
+**Stack:** Flask, React, MongoDB, OpenAI, AssemblyAI
 
 ---
 
