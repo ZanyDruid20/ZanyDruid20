@@ -15,6 +15,10 @@ I enjoy turning **real problems into real software** — from maps to analytics 
 
 ---
 
+# Project Portfolio
+https://furnom-studio.vercel.app/
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -170,5 +174,3 @@ A low-level emulator that interprets Chip-8 opcodes and renders classic retro gr
 
 </p>
 
-# Project Portfolio
-https://furnom-studio.vercel.app/
