@@ -73,19 +73,17 @@ https://furnom-studio.vercel.app/
 
 A Go-based RESTful API designed for scalable group expense splitting and multi-user workflows.
 
-* [cite_start]**High Performance:** Benchmarked system performance with **100K+ records** using a custom Python load generator.
-* [cite_start]**Traffic Management:** Integrated **Kong API Gateway** to enforce rate limiting and ensure stability during traffic spikes[cite: 18].
-* [cite_start]**Infrastructure as Code:** Provisioned cloud resources via **Terraform** and utilized **AWS S3** for secure file handling[cite: 19].
-* [cite_start]**Security:** Implemented **JWT authentication** and used **PostgreSQL** for reliable data storage[cite: 16].
+**High Performance:** Benchmarked system performance with **100K+ records** using a custom Python load generator.
+**Traffic Management:** Integrated **Kong API Gateway** to enforce rate limiting and ensure stability during traffic spikes
+***Infrastructure as Code:** Provisioned cloud resources via **Terraform** and utilized **AWS S3** for secure file handling.
+**Security:** Implemented **JWT authentication** and used **PostgreSQL** for reliable data storage.
 
-#### Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-</p>
+#### Tech Stack: 
+- **Backend:** Golang, Python
+- **Database:** PostgreSQL
+- **API:** REST APIS 
+- **Infra:** AWS, Terraform, Docker, Kong API
+
 ### **GEPO — GitHub Analytics Platform**
 
 A **full-stack GitHub analytics platform** that transforms public GitHub activity into dashboards, scores, and a Spotify-Wrapped-style **Year in Review**.
