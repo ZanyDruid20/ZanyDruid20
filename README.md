@@ -70,12 +70,14 @@ https://furnom-studio.vercel.app/
 
 ### EXPENSE-API - Shared Expense Application
 
-A Go-based RESTful API designed for scalable group expense splitting and multi-user workflows.
+EXPENSE-API is a high-performance shared expense application backend designed to simplify group finances and shared spending.
 
-**High Performance:** Benchmarked system performance with **100K+ records** using a custom Python load generator.
-**Traffic Management:** Integrated **Kong API Gateway** to enforce rate limiting and ensure stability during traffic spikes
-***Infrastructure as Code:** Provisioned cloud resources via **Terraform** and utilized **AWS S3** for secure file handling.
-**Security:** Implemented **JWT authentication** and used **PostgreSQL** for reliable data storage.
+**Smart Bill Splitting**: Create groups and track shared expenses with a RESTful API built for speed and accuracy.
+**Secure File Handling**: Leverages **AWS S3** with pre-signed URLs to allow users to securely upload and download receipts.
+**System Stability**: Benchmarked to handle **100,000+ records** efficiently, ensuring the app stays fast as data grows.
+**Traffic Protection**: Uses **Kong API Gateway** as a "gatekeeper" to manage rate limits and protect the server from being overwhelmed by requests.
+**Secure Access**: Protects user accounts and data using **JWT authentication** for every request.
+**Infrastructure as Code**: The entire environment—from databases to cloud storage—is automated using **Terraform** for consistent, one-click deployments.
 
 #### Tech Stack: 
 - **Backend:** Golang, Python
