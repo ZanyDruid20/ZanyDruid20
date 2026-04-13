@@ -68,8 +68,7 @@ https://furnom-studio.vercel.app/
 
 ## 🚀 Projects
 
-### [EXPENSE-API](https://github.com/ZanyDruid20/EXPENSE-API) | Shared Expense Application
-**Feb 2026 – Apr 2026**
+### EXPENSE-API - Shared Expense Application
 
 A Go-based RESTful API designed for scalable group expense splitting and multi-user workflows.
 
