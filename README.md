@@ -78,7 +78,7 @@ EXPENSE-API is a high-performance shared expense application backend designed to
 
 - **Secure File Handling**: Leverages **AWS S3** with pre-signed URLs to allow users to upload and download receipts securely.
 
-- **System Stability**: Benchmarked to handle **100,000+ records** efficiently, ensuring the app stays fast as data grows.
+- **System Stability**: Benchmarked to handle simulated **100,000+ records** efficiently, ensuring the app stays fast as data grows.
 
 - **Traffic Protection**: Uses **Kong API Gateway** as a "gatekeeper" to manage rate limits and protect the server from being overwhelmed by requests.
 
