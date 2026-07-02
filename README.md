@@ -74,7 +74,7 @@ EXPENSE-API is a high-performance shared expense application backend designed to
 
 **What it does**
 
-- **Smart Bill Splitting**: Create groups and track shared expenses with a RESTful API built for speed and accuracy.
+- **Bill Splitting**: Create groups and track shared expenses with a RESTful API built for speed and accuracy.
 
 - **Secure File Handling**: Leverages **AWS S3** with pre-signed URLs to allow users to upload and download receipts securely.
 
