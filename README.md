@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Furnom
 
-> Computer Science student at **UMBC** who builds full-stack systems, developer tools, and data-driven platforms.
+> Computer Science Graduate at the **University of Maryland, Baltimore County** who builds full-stack applications, developer tools, and data-driven platforms.
 
 I enjoy turning **real problems into real software** — from maps to analytics platforms.
 
