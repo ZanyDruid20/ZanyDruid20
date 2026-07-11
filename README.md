@@ -90,7 +90,7 @@ EXPENSE-API is a high-performance shared expense application backend designed to
 - **Backend:** Golang, Python
 - **Database:** PostgreSQL
 - **API:** REST APIS 
-- **Infra:** AWS, Terraform, Docker, Kong API
+- **Infra:** AWS S3, Terraform, Docker, Kong API
 
 ### **GEPO — GitHub Analytics Platform**
 
@@ -146,7 +146,7 @@ A **high-performance link shortener** designed to be fast, scalable, and product
 - Persists data in MySQL
 - Runs in Docker and AWS
 
-**Stack:** Go, Redis, MySQL, Docker, AWS  
+**Stack:** Go, Redis, MySQL, Docker, AWS EC2, AWS RDS
 
 ---
 
