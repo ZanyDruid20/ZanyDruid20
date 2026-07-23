@@ -64,7 +64,7 @@ https://furnom-studio.vercel.app/
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
 </p>
