@@ -62,6 +62,7 @@ https://furnom-studio.vercel.app/
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white"/>
 </p>
 
 
